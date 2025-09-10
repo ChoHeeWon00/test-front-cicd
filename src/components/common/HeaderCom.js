@@ -31,7 +31,7 @@ const HeaderCom = () => {
     return (<WrapBlock>
         <StyledHeader>
             <StyledTitle>
-                <Link className="link" to="/">탱이냥</Link>
+                <Link className="link" to="/">업뎃-탱이냥</Link>
             </StyledTitle>
             <StyledNav>
                 <ul className="menu">
